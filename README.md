@@ -10,6 +10,12 @@ This project analyzes summertime [New York Citi Bike Data](https://ride.citibike
 
 The visualizations can be seen on tableau public at [Citi Bike Analytics](https://public.tableau.com/app/profile/jagjeet.khalsa/viz/CitiBikeAnalytics_16362619878180/StationDashboard)
 
+## Conclusions
+
+1. The summer of 2021 had strong ridership with a mix of both members and casual riders.
+2. Classic bikes were more likely to be used vs docked bikes. Presumably these are more accessible to riders than going to a docked location.
+3. Start and end stations are spread throughout the city. Presumably by work and tourist locations. (Without more NY knowledge it is difficult to make deeper conclusions here.)
+
 ## Prerequisites
 
 To run this project the following tools are needed:
